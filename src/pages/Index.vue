@@ -30,18 +30,8 @@ query Posts {
         title
       }
     }
-  },
-  photographys: allPhotographyPost (perPage: 4) {
-    edges {
-      node {
-        id
-        path
-        thumbnail
-        title
-      }
     }
   }
-}
 </page-query>
 
 <script>

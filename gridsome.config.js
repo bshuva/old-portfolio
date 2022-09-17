@@ -3,7 +3,7 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: 'https://bshuva.github.io',
+  siteUrl: 'https://bshuva.github.io/',
   // pathPrefix: '/portfolio-try',
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
@@ -26,18 +26,6 @@ module.exports = {
       options: {
         path: "journal/**/*.md",
         typeName: "JournalPost",
-        resolveAbsolutePaths: true,
-        remark: {
-          externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-        }
-      }
-    },
-    {
-      use: "@gridsome/source-filesystem",
-      options: {
-        path: "photography/**/*.md",
-        typeName: "PhotographyPost",
         resolveAbsolutePaths: true,
         remark: {
           externalLinksTarget: "_blank",
