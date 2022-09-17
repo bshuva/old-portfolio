@@ -4,7 +4,7 @@
 module.exports = {
   siteName: "Portfolio",
   siteUrl: 'https://bshuva.github.io',
-  pathPrefix: '/portfolio-try',
+  // pathPrefix: '/portfolio-try',
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
   siteDescription: "Creative technologist",
