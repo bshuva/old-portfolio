@@ -4,7 +4,7 @@ year: 2018
 title: Barber Cards
 thumbnail: "/uploads/Barber_cards/thumbnail.png"
 categories:
-- Simiotics
+- Semiotics
 - Game design
 - Interaction design
 project_bg_color: ''

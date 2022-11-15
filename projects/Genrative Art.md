@@ -1,7 +1,7 @@
 ---
 date: 2021-03-31 
 year: 2021
-title: Genrative art
+title: Generative art
 thumbnail: "/uploads/creativecoding.png"
 categories:
 - Creative coading
