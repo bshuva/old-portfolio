@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: 'https://bshuva.github.io/',
   // pathPrefix: '/portfolio-try',
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
+  titleTemplate: "%s - bshuva",
   siteDescription: "Creative technologist",
   plugins: [
     {
