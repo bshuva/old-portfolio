@@ -35,5 +35,6 @@ fields:
 - type: boolean
   name: dark_mode
   label: Dark mode
+  hidden: false
 pages:
 - data/theme.json
