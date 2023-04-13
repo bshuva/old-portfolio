@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          completely unaltered voice...
+           unaltered voice...
         </h1>
       </div>
     </div>

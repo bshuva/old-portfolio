@@ -3,15 +3,11 @@
     <div class="container">
       <div class="photography-hero">
         <h1 class="photography-header">
-          Collection of photos
+          
+          Website under construction
         </h1>
       </div>
-      <div class="grid">
-        <img src="https://img00.deviantart.net/e895/i/2017/275/7/d/ultra_sun_ultra_moon_by_kawacy-dbpbuiq.jpg" alt="">
-        <img src="https://img00.deviantart.net/e895/i/2017/275/7/d/ultra_sun_ultra_moon_by_kawacy-dbpbuiq.jpg" alt="">
-        <img src="https://img00.deviantart.net/e895/i/2017/275/7/d/ultra_sun_ultra_moon_by_kawacy-dbpbuiq.jpg" alt="">
-        <img src="https://img00.deviantart.net/e895/i/2017/275/7/d/ultra_sun_ultra_moon_by_kawacy-dbpbuiq.jpg" alt="">
-      </div>
+      
     </div>
   </Layout>
 </template>
