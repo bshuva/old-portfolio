@@ -2,7 +2,7 @@
 date: 2018-02-16
 year: 2018
 title: Barber Cards
-thumbnail: "/uploads/Barber_cards/thumbnail.png"
+thumbnail: "/uploads/Barber_cards/thumbnail.jpg"
 categories:
 - Semiotics
 - Game design

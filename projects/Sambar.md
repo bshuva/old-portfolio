@@ -2,7 +2,7 @@
 date: 2018-03-05 
 year: 2018
 title: Sambar a Tamil short-film
-thumbnail: "/uploads/Sambar/thumbnail.png"
+thumbnail: "/uploads/Sambar/thumbnail.jpg"
 categories:
 - Sound design
 - Film production

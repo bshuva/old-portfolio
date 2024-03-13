@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/DTE/Dchallangeapp/click tab button.png"
+thumbnail: "/uploads/DTE/Dchallangeapp/thumbnail1.jpg"
 title: Introduction of "Design" to highschool students
 date: 2020-07-09
 categories:
@@ -10,6 +10,8 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](\uploads\DTE\Dchallangeapp\thumbnail.png)
+
 This project aims to enable high school students to relate more to their learned science 
 and mathematical studies and understand their application in real-life 
 scenarios. Introducing design to high school students makes it one of the best ways to do so, as it makes students open-minded, exploratory, and critical thinkers.

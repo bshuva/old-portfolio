@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/Dessor/poster.jpg"
+thumbnail: "/uploads/Dessor/thumbnail.jpg"
 title: Dessor 
 date: 2018-10-09
 categories:
@@ -11,7 +11,7 @@ project_fg_color: ''
 
 ---
 
-![](\uploads\Dessor\poster.jpg)
+![](\uploads\Dessor\thumbnail.jpg)
 
 # Project Overview
 Dessor is a desk organizer explicitly made for design students. This project aimed to learn the fabrication methods and processes involved in mass manufacturing plastic-made products.
