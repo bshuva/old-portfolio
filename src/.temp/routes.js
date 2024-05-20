@@ -29,6 +29,10 @@ export default [
     component: c1
   },
   {
+    path: "/projects/designapp/",
+    component: c1
+  },
+  {
     path: "/projects/dessor/",
     component: c1
   },
